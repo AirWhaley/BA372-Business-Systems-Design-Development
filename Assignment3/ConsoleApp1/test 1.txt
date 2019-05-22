@@ -1,0 +1,12 @@
+Number of periods between 2 and 5: 5
+sales Growth Between -10 and 200: 13
+Variable Cost Percentage Between 5 and 75: 65
+Fixed Cost between 500 and 25,000 DollarsCOST: 5400
+
+Period       Sales          Cost             Profit
+     1    $22,600.00     $20,090.00          $2,510.00
+     2    $25,538.00     $21,999.70          $3,538.30
+     3    $28,857.94     $24,157.66          $4,700.28
+     4    $32,609.47     $26,596.16          $6,013.32
+     5    $36,848.70     $29,351.66          $7,497.05
+ Total   $146,454.12    $122,195.18         $24,258.94
